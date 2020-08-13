@@ -1,4 +1,7 @@
 # kotlin-blackjack
-1.eqwe
-2.1313
-3.412424
+'*'Enum 문양
+'*'Enum 숫자
+'*'Card 구현
+'*'CardDeck 구현
+'*'Player 구현
+'*'BlackJack 

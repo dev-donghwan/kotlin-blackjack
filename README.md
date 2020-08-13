@@ -1,7 +1,7 @@
 # kotlin-blackjack
--Enum 문양\n
--Enum 숫자\n
--Card 구현\n
--CardDeck 구현\n
--Player 구현\n
--BlackJack 구현\n
+###Enum 문양
+###Enum 숫자
+###Card 구현
+###CardDeck 구현
+###Player 구현
+###BlackJack 구현
